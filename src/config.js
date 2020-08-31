@@ -24,10 +24,10 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: '#,
+      url: 'https://codepen.io/bchiang7',
     },
     {
-      name: 'Instagra',
+      name: 'Instagram',
       url: '#',
     },
     {
