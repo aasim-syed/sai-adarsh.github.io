@@ -1,43 +1,62 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link } from 'gatsby';
-import { Helmet } from 'react-helmet';
-import { Container } from 'react-bootstrap';
-import Fade from 'react-reveal/Fade';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import { CSSTransition, TransitionGroup } from 'react-transition-group';
+import PropTypes from 'prop-types';
+import { Layout } from '@components';
+import styled from 'styled-components';
+import { theme, mixins, media, Main } from '@styles';
+const { colors, fonts, navDelay } = theme;
 
-import { headData } from '../mock/data';
-import '../style/main.scss';
+const StyledMainContainer = styled(Main)`
+  ${mixins.flexCenter};
+  flex-direction: column;
+`;
+const StyledTitle = styled.h1`
+  color: ${colors.green};
+  font-family: ${fonts.SFMono};
+  font-size: 12vw;
+  line-height: 1;
+  ${media.bigDesktop`font-size: 200px;`}
+  ${media.phablet`font-size: 120px;`};
+`;
+const StyledSubtitle = styled.h2`
+  font-size: 3vw;
+  font-weight: 400;
+  ${media.bigDesktop`font-size: 50px;`};
+  ${media.phablet`font-size: 30px;`};
+`;
+const StyledHomeButton = styled(Link)`
+  ${mixins.bigButton};
+  margin-top: 40px;
+`;
 
-export default () => {
-  const { lang } = headData;
+const NotFoundPage = ({ location }) => {
+  const [isMounted, setIsMounted] = useState(false);
+
+  useEffect(() => {
+    const timeout = setTimeout(() => setIsMounted(true), navDelay);
+    return () => clearTimeout(timeout);
+  }, []);
 
   return (
-    <>
-      <Helmet>
-        <meta charSet="utf-8" />
-        <title>Page not found</title>
-        <html lang={lang || 'en'} />
-        <meta name="description" content="Page not found" />
-      </Helmet>
-      <section id="hero" className="jumbotron">
-        <Container>
-          <Fade bottom duration={1000} delay={500} distance="30px">
-            <h1 className="hero-title text-center">
-              Sorry, this path does not exist{' '}
-              <span role="img" aria-label="emoji">
-                😞
-              </span>
-            </h1>
-          </Fade>
-          <Fade bottom duration={1000} delay={1000} distance="30px">
-            <p className="hero-cta justify-content-center">
-              <Link className="cta-btn cta-btn--hero" to="/">
-                Go back
-              </Link>
-            </p>
-          </Fade>
-        </Container>
-      </section>
-    </>
+    <Layout location={location}>
+      <TransitionGroup component={null}>
+        {isMounted && (
+          <CSSTransition timeout={500} classNames="fade">
+            <StyledMainContainer className="fillHeight">
+              <StyledTitle>404</StyledTitle>
+              <StyledSubtitle>Page Not Found</StyledSubtitle>
+              <StyledHomeButton to="/">Go Home</StyledHomeButton>
+            </StyledMainContainer>
+          </CSSTransition>
+        )}
+      </TransitionGroup>
+    </Layout>
   );
 };
+
+NotFoundPage.propTypes = {
+  location: PropTypes.object.isRequired,
+};
+
+export default NotFoundPage;
