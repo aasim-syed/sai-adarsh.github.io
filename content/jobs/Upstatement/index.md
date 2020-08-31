@@ -1,10 +1,10 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Internship'
+company: 'IIT Madras'
+location: 'Chennai, India'
+range: 'June 2020 - Present'
+url: 'https://www.iitm.ac.in/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
