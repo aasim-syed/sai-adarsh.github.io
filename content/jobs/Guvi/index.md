@@ -8,6 +8,6 @@ url: 'https://www.guvi.in/'
 ---
 
 - Worked along with Guvi's then upcoming product - CodeKata.
-- Used PyAutoGUI, Python, PowerBI
+- Used PyAutoGUI, Python, PowerBI.
 - Wrote a python bases system that automates certificate generation.
 - Working with Guvi's HTML, CSS, JS course structure.

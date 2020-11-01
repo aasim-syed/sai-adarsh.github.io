@@ -8,4 +8,4 @@ url: 'https://eng.uber.com/'
 ---
 
 - Fixed patches with Ludwig by Uber
-- Fixed favicon on Ludwig's landing page
+- Fixed favicon on Ludwig's landing page.

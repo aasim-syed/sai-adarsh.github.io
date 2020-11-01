@@ -8,5 +8,5 @@ url: 'https://us.mullenlowe.com/'
 ---
 
 - Built a system that identifies the depth and disparity of a video using a stereo camera.
-- Used OpenCV.
+- Used OpenCV, Tensorflow, Sklearn.
 - Worked under professor Dr. Masilamani.
