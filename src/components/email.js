@@ -37,7 +37,7 @@ const StyledEmailLink = styled.a`
 const Email = ({ isHome }) => (
   <Side isHome={isHome} orientation="right">
     <StyledLinkWrapper>
-      <StyledEmailLink href={`mailto:${email}`}>{email}</StyledEmailLink>
+      <StyledEmailLink href={`https://www.linkedin.com/in/sai-adarsh/`}>{email}</StyledEmailLink>
     </StyledLinkWrapper>
   </Side>
 );

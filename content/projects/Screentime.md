@@ -1,15 +1,16 @@
 ---
 date: '2016-11-01'
-title: 'Screentime 2.0'
-github: ''
-external: 'https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents'
-android: 'https://play.google.com/store/apps/details?id=com.starry.management&hl=en_US'
+title: 'Albuquerque Webapp'
+github: 'https://github.com/Sai-Adarsh/HackSummit'
+external: 'https://dare2compete.com/o/hack-summit-aaruush-srm-institute-of-science-and-technology-srm-university-srmchennai-83819'
 tech:
-  - Cordova
-  - Backbone
-  - Marionette
-company: 'Starry'
+  - Flask
+  - OpenCV
+  - Scikit learn
+  - Tensorflow
+  - Heroku
+company: 'Aarush'
 showInProjects: true
 ---
 
-Starry Station android app feature that provided users with the ability to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their phones.
+Detection of Mental Health diseases with accuracy using Deep Learning.

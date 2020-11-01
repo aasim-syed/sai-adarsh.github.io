@@ -1,13 +1,14 @@
 ---
 date: '2015-12-20'
-title: 'NU Women in Tech'
-github: 'https://github.com/nuwit/website'
-external: 'https://nuwit.ccs.neu.edu/'
+title: 'Ongaku Desktop'
+github: 'https://github.com/Sai-Adarsh/ongaku-desktop/'
+external: 'https://github.com/Sai-Adarsh/ongaku-desktop/'
 tech:
-  - Jekyll
+  - React.js
+  - Node.js
   - Bootstrap
-company: 'Northeastern'
+company: 'Njack'
 showInProjects: true
 ---
 
-Complete overhaul and redesign of NU Women in Tech's club website using Jekyll, built while serving as web chair on the e-board.
+Play anime music via terminal in a desktop app.

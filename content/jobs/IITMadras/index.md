@@ -7,6 +7,6 @@ range: 'June 2020 - Present'
 url: 'https://www.iitm.ac.in/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, Wordpress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Building products benefiting Brain Research team of IIT Madras.
+- Using Angular, MongoDB, Firebase, Openlayers.
+- Working along with Healthcare Technology Innovation Centre, Centre for Industrial Consultancy and Sponsored Research, Center for Computational Brain Research.

@@ -1,15 +1,16 @@
 ---
 date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+title: 'Diagnosis Tagging App'
+github: 'https://github.com/Sai-Adarsh/agbi-hackathon'
+external: 'https://www.hackerearth.com/challenges/hackathon/agbi-digital-healthtech-grand-challenge/'
 tech:
-  - Node
-  - Express
+  - Flask
+  - React.js
+  - React Native
   - Firebase
-  - Vue
-company: 'Upstatement'
+  - Heroku
+company: 'AGBI Hackathon'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+A cross platform OCR app. A digital marketing web app for hospitals, A patients app to view latest drugs.

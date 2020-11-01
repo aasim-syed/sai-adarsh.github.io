@@ -1,12 +1,15 @@
 ---
 date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+title: 'Commondities App and API'
+github: 'https://github.com/Sai-Adarsh/commodities'
+external: 'https://www.linkedin.com/feed/update/urn:li:activity:6706923713981493249/'
 tech:
-  - Vue
+  - Flask
+  - React.js
+  - React Native
   - Firebase
+  - Heroku
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+An Android app and a flask based API that fetches commodities' stock values from investing.com

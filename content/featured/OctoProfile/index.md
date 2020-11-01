@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'HCL Hackathon 2018'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/Sai-Adarsh/ImageClassifier'
+external: 'https://www.guvi.in/maduraihackathon/?user=maduraihackath'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Django
+  - Tensorflow
+  - Raspberry Pi
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Solid Waste Segregation using Image Processing powered by Convolution Neural Networks embedded with Raspberry Pi and its Add ons.

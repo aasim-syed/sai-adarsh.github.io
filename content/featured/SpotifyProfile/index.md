@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Hackerrupt 2020'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://www.instagram.com/p/B-Er838Jzzj/'
 tech:
-  - React
+  - React Native
   - Node.js
-  - Express
-  - Spotify Web API
+  - GCP
+  - Tensorflow
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A voice enabled device assistant for Visually Challenged people using react native backed up ML models built using Sklearn and Tensorflow.

@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Sai Adarsh'
+name: 'Sai Adarsh S'
 subtitle: 'I build things for the web.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Coimbatore, India specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+A Full Stack & Android Engineer and an open source enthusiast from Coimbatore, India. Design, Startups & Entrepreneurship Aficionado.

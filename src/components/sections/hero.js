@@ -83,7 +83,7 @@ const Hero = ({ data }) => {
   );
   const five = () => (
     <div style={{ transitionDelay: '500ms' }}>
-      <StyledEmailLink href={`mailto:${email}`}>Get In Touch</StyledEmailLink>
+      <StyledEmailLink href={`https://www.linkedin.com/in/sai-adarsh/`} target="_blank">Get In Touch</StyledEmailLink>
     </div>
   );
 

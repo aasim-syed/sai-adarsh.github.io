@@ -23,12 +23,8 @@ module.exports = {
       url: 'https://www.linkedin.com/in/sai-adarsh/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
-    {
       name: 'Instagram',
-      url: '#',
+      url: 'https://www.instagram.com/ad6rsh/',
     },
     {
       name: 'Twitter',

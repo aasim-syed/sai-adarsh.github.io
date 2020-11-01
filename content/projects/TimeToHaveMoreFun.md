@@ -1,14 +1,14 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'Healthapp for VIT Hack'
+github: 'https://github.com/Sai-Adarsh/vithack'
+external: 'https://www.linkedin.com/posts/sai-adarsh_hackathon-gravitas-india-activity-6721387136467259392-p3Ir'
 tech:
-  - Next.js
-  - Tailwind CSS
+  - React.js
+  - React Native
   - Firebase
-company: ''
+company: 'Vicara'
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+A cross platform application that retrieves data sent by Python server and ML model and displays analytics, insights, & suggestions for the same.

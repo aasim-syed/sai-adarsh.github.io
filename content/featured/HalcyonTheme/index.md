@@ -1,16 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Aarush Hack Summit 2019'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/Sai-Adarsh/HackSummit'
+external: 'https://dare2compete.com/o/hack-summit-aaruush-srm-institute-of-science-and-technology-srm-university-srmchennai-83819'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Flask
+  - Tensorflow
+  - Sklearn
+  - Raspberry Pi
+  - Heroku
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+An emotional stress monitoring API using Python, Flask, Multiway Classification Neural Networks, and Heroku.

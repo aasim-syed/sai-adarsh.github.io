@@ -1,12 +1,13 @@
 ---
 date: '2016-01-01'
-title: 'Fontipsums'
-github: 'https://github.com/bchiang7/fontipsums/'
-external: 'http://bchiang7.github.io/fontipsums/'
+title: 'News Sentiment Analysis Webapp'
+github: 'https://github.com/Sai-Adarsh/IBMHackathon/'
+external: 'https://github.com/Sai-Adarsh/IBMHackathon/'
 tech:
-  - HTML
-  - SCSS
+  - Vue.JS
+  - Node.JS
+  - RSS
 showInProjects: true
 ---
 
-Simple website to display some of my favorite font pairings combined with some fun lorem ipsum variations found on the web.
+A webapp capturing news sentiment using NLP as a part of IBM Hackathon.
