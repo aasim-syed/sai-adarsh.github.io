@@ -146,7 +146,7 @@ const Projects = ({ data }) => {
   return (
     <StyledContainer>
       <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
-      <StyledArchiveLink href={`https://www.linkedin.com/in/sai-adarsh/`} target="_blank" ref={revealArchiveLink}>
+      <StyledArchiveLink to={`https://github.com/Sai-Adarsh`} target="_blank" ref={revealArchiveLink}>
         view the archive
       </StyledArchiveLink>
 
