@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'HCL Hackathon 2018'
 cover: './octoprofile.png'
 github: 'https://github.com/Sai-Adarsh/ImageClassifier'

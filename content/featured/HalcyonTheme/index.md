@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Aarush Hack Summit 2019'
 cover: './halcyon.png'
 github: 'https://github.com/Sai-Adarsh/HackSummit'
