@@ -1,7 +1,7 @@
 ---
 date: '2015-12-21'
 title: 'Research Intern'
-company: 'IITDM Kancheepuram'
+company: 'IIITDM Kancheepuram'
 location: 'Chennai, India'
 range: 'May - June 2018'
 url: 'https://us.mullenlowe.com/'
