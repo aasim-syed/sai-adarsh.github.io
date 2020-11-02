@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-A voice enabled device assistant for Visually Challenged people using react native backed up ML models built using Sklearn and Tensorflow.
+A voice enabled device assistant for Visually Challenged people using React Native backed up ML models built using Sklearn and Tensorflow.
