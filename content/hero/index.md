@@ -5,4 +5,4 @@ subtitle: 'I build things for the web.'
 buttonText: 'Get In Touch'
 ---
 
-A Full Stack & Android Engineer and an Open Source Enthusiast from Madurai, India. Design, Startups & Entrepreneurship Aficionado.
+Software Engineer. Full Stack, Android Developer and Open Source Enthusiast from Madurai, India. Design, Startups & Entrepreneurship Enthusiast.
