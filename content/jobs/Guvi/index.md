@@ -1,6 +1,6 @@
 ---
 date: '2017-04-01'
-title: 'Internship'
+title: 'Software Engineer Intern'
 company: 'Guvi Geek Networks'
 location: 'Chennai, India'
 range: 'May - June 2019'

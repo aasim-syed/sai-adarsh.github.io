@@ -1,6 +1,6 @@
 ---
 date: '2018-05-14'
-title: 'Internship'
+title: 'Software Engineer Intern'
 company: 'IIT Madras'
 location: 'Chennai, India'
 range: 'June 2020 - November 2020'

@@ -1,6 +1,6 @@
 ---
 date: '2018-04-01'
-title: 'Head of Product • Co founder'
+title: 'Team Member'
 company: 'Appendly'
 location: 'Coimbatore, India'
 range: 'Oct 2017 - Present'
