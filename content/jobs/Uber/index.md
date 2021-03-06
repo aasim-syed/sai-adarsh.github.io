@@ -7,5 +7,5 @@ range: 'May - June 2019'
 url: 'https://eng.uber.com/'
 ---
 
-- Fixed patches with Ludwig by Uber
+- Fixed patches with Ludwig by Uber.
 - Fixed favicon on Ludwig's landing page.
