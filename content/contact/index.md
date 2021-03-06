@@ -3,4 +3,4 @@ title: 'Get In Touch'
 buttonText: 'Say Hello'
 ---
 
-My inbox is always open. Whether you have a question or just want to say hi, I'm open for a casual conversation and I'll try my best to get back to you!
+Whether you have a question or just want to say hi, my inbox is always open and I'll try my best to get back to you!
